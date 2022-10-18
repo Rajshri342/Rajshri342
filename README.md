@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajshri342
+- 👋 Hi, I’m @Raj Shrivastava
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning B pharma
+- 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
